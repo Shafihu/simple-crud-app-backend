@@ -25,3 +25,12 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) applicatio
 4. Start the server:
    ```bash
    npm run dev
+
+5. Access the API endpoints via `http://localhost:3000`
+
+## API Endpoints:
+- GET /products - Retrieve all items.
+- POST /products - Create a new item.
+- GET /products/:id - Retrieve a single item by ID.
+- PUT /products/:id - Update an item by ID.
+- DELETE /products/:id - Delete an item by ID.
