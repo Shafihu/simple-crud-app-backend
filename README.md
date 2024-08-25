@@ -20,4 +20,8 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) applicatio
    npm install
 
 3. Set up environment variables:
-   - Add your MongoDB connection string and other environment variables as needed.
+- Add your MongoDB connection string and other environment variables as needed.
+
+4. Start the server:
+   ```bash
+   npm run dev
