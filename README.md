@@ -16,7 +16,7 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) applicatio
    
 2. Install dependencies::
    ```bash
-   cd repository-name
+   cd simple-crud-app-backend
    npm install
 
 3. Set up environment variables:
@@ -41,3 +41,5 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) applicatio
 - MongoDB
 - Mongoose
 
+## Contributing:
+-Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
