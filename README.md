@@ -13,3 +13,11 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) applicatio
 1. Clone the repository:
    ```bash
    git clone https://github.com/shafihu/simple-crud-app-backend.git
+   
+2. Install dependencies::
+   ```bash
+   cd repository-name
+   npm install
+
+3. Set up environment variables:
+   -Add your MongoDB connection string and other environment variables as needed.
