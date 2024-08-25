@@ -34,3 +34,10 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) applicatio
 - GET /products/:id - Retrieve a single item by ID.
 - PUT /products/:id - Update an item by ID.
 - DELETE /products/:id - Delete an item by ID.
+
+## Technologies Used:
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+
