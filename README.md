@@ -42,4 +42,4 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) applicatio
 - Mongoose
 
 ## Contributing:
--Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
+- Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
