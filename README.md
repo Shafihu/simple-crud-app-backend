@@ -12,5 +12,4 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) applicatio
 ## Setup Instructions:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
-
+   git clone https://github.com/shafihu/simple-crud-app-backend.git
